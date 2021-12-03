@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JorsinLuvhart
+- 👀 I’m interested in making bots for now
+- 🌱 I’m currently learning databases
+- 💞️ I’m looking to collaborate on fun bots
+- 📫 How to reach me @jorsin on telegram or Jorsin#7820 on discord
